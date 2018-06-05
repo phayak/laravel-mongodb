@@ -7,9 +7,9 @@ An Eloquent model and Query builder with support for MongoDB, using the original
 
 Table of contents
 -----------------
-* [Installation](#installation)
-* [Upgrading](#upgrading)
-* [Configuration](#configuration)
+* [Installation](#การติดตั้ง)
+* [Upgrading](#การอัพเกรด)
+* [Configuration](#ตั้งค่า)
 * [Eloquent](#eloquent)
 * [Optional: Alias](#optional-alias)
 * [Query Builder](#query-builder)
